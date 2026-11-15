@@ -11,6 +11,7 @@
 | `hardware/` | 硬件 | Intel AX200 5G AP：self-managed 监管根因、MCC 注入驱动补丁、hostapd 配置、OpenRC 服务、性能数据 |
 | `network/` | 网络 | Gentoo (OpenRC) 有线口热点配置（NAT/iptables/mihomo 共存）、TLS handshake timeout 与路径 MTU 问题 |
 | `os/` | 系统 | Gentoo Ebuild 编写指南（eclass、RDEPEND、USE 依赖、QA 等） |
+| `security/` | 权限 | 权限模型汇总（RBAC / 数据权限 / ABAC / ACL / RLS）：原理、表设计、实现与踩坑 |
 
 ## 使用
 
